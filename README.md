@@ -2,13 +2,9 @@
 
 # FLEXBOX PRACTICE
 
-> Practice using basic Flexbox properties, by creating boxes with containers, their respective classes and properties. 
+> Flexbox practice using basic Flexbox properties, by creating boxes with containers, their respective classes and properties. 
 
 ![screenshot](./img.png)
-
-Additional description about the project and its features.
-
-Practice using basic Flexbox properties, by creating boxes with containers, their respective classes and properties.
 
 ## Built With
 
@@ -23,10 +19,8 @@ Practice using basic Flexbox properties, by creating boxes with containers, thei
 
 ## Getting Started
 
-**Clone the repository in Git, run it from a browser**
-
 To get a local copy up and running follow these simple example steps.
-
+**Clone the repository in Git, run it from a browser**
 
 ## Authors
 
